@@ -54,6 +54,11 @@ Reverse Shell
 Touch command
 ```
 
+### File upload fuzzer
+
+```https://github.com/basketas/upload-fuzz-dic-builder
+```
+
 ## References
 
 * Bulletproof Jpegs Generator - Damien "virtualabs" Cauquil
