@@ -54,10 +54,9 @@ Reverse Shell
 Touch command
 ```
 
-### File upload fuzzer
+### Filename upload fuzzer
 
-```https://github.com/basketas/upload-fuzz-dic-builder
-```
+`https://github.com/basketas/upload-fuzz-dic-builder`
 
 ## References
 
